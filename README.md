@@ -124,6 +124,7 @@ output:
 Community sizes
 
  1  2  3  4  5  6  7 
+ 
  5 13  3  3  2  3  3 
 
 
@@ -175,6 +176,7 @@ output:
 
 Community sizes
  1  2  3  4  5  6 
+ 
 10  5  4  5  5  3 
 
 
@@ -316,6 +318,7 @@ output:
 Community sizes
 
  1  2 
+ 
  6 17 
 
 
@@ -368,6 +371,7 @@ output:
 Community sizes
 
 1 2 3 
+
 7 7 9 
 
 
